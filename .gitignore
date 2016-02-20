@@ -1,1 +1,5 @@
 /nb-configuration.xml
+/backend/nb-configuration.xml
+/frontend/nb-configuration.xml
+/frontend/target/
+/backend/target/
